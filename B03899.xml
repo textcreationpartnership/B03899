@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jennies answer to Sawny. Wherein loves cruelty is requited, or, The inconstant lover justly despised. Being a relation how Sawney being disabled and and [sic] turn'd out of doors by the miss of London town, is likewise scorned and rejected by his country lass, and forced to wander where he may [sic] Jenny at at [sic] last in a most woful case, is forc'd to leave the patch'd and painted face; for money there rules all, and when 'tis gone, the cully is no longer writed on: down to his Jenny he does hye with speed, but she remembers his ungrateful deed; nor will forgive though on his knees he fall, so mortify'd he is despis'd by all. To the tune of, Sawney will ne'r be my love again.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03899</idno>
+            <idno type="STC">Wing J675</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[138]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[223]</idno>
+            <idno type="EEBO-CITATION">99887179</idno>
+            <idno type="PROQUEST">ocm99887179</idno>
+            <idno type="VID">183381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183381)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[138]; A5:2[172])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jennies answer to Sawny. Wherein loves cruelty is requited, or, The inconstant lover justly despised. Being a relation how Sawney being disabled and and [sic] turn'd out of doors by the miss of London town, is likewise scorned and rejected by his country lass, and forced to wander where he may [sic] Jenny at at [sic] last in a most woful case, is forc'd to leave the patch'd and painted face; for money there rules all, and when 'tis gone, the cully is no longer writed on: down to his Jenny he does hye with speed, but she remembers his ungrateful deed; nor will forgive though on his knees he fall, so mortify'd he is despis'd by all. To the tune of, Sawney will ne'r be my love again.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball, near the Hospital-Gate in West Smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "When Sawny left me he had store of gilt ..."</note>
+                  <note>Item at A5:2[172] trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="223" facs="tcp:183381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>Iennies Anſwer to Sawny.</head>
+            <head type="sub">Wherein Loves Cruelty is requited, <hi>Or,</hi> The Inconſtant Lover juſtly Deſpiſed.</head>
+            <argument>
+               <p>Being a Relation how <hi>Sawney</hi> being Diſabled and and turn'd out of Doors by the Miſs of <hi>London</hi> town, is likewiſe ſcorned and rejected by his Country Laſs, and forced to wander where he may</p>
+               <lg>
+                  <l>
+                     <hi>Jenny</hi> at at laſt in a moſt woful caſe,</l>
+                  <l>Is forc'd to leave the Patch'd and Painted face;</l>
+                  <l>For money there rules all, and when 'tis gone,</l>
+                  <l>The Cully is no longer writed on:</l>
+               </lg>
+               <lg>
+                  <l>Down to his <hi>Jenny</hi> he does hye with ſpeed,</l>
+                  <l>But, ſhe remembers his <g ref="char:V">Ʋ</g>ngrateful deed;</l>
+                  <l>Nor will forgive though on his knees he fall,</l>
+                  <l>So Mortify'd he is deſpiſ'd by all.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>Sawney will ne'r be my Love again.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>VVHen <hi>Sawny</hi> left me he had ſtore of Gilt,</l>
+               <l>but he hath ſpent it in <hi>London</hi> Town;</l>
+               <l>And now is return'd to his Sun-burn'd face,</l>
+               <l>his own dear joy in a Ruſſet Gown:</l>
+               <l>He's come for another Sark and Band,</l>
+               <l>and coakes's me for more of my Coin:</l>
+               <l>But I'ſe guid-faith, ſhall hold thy hand</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sawny</hi> rid home on a Running Nagg,</l>
+               <l>and fain wou'd he have me gang to the <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ade,</l>
+               <l>But never was <hi>Scot</hi> in ſuch a caſe,</l>
+               <l>with riding upon a <hi>London</hi> Iade,</l>
+               <l>But now he repents s'th Painted face,</l>
+               <l>and bans the Lewd Queans of <hi>London</hi> fine:</l>
+               <l>He fain wou'd have let his Nag run a race</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He now would Angle in my Fiſh-pond,</l>
+               <l>to quench thoſe flames that ſcorch him ſo;</l>
+               <l>And wou'd put it in with his own hand,</l>
+               <l>But let him gang where the North-wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds blow,</l>
+               <l>I'ſe be content with my former dream,</l>
+               <l>nor at his abſence will I repine;</l>
+               <l>No more will I'ſe taſt of his Curds and Cream.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For <hi>Sawny</hi> never more ſhall be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But yet methought that I'ſe was ſad.</l>
+               <l>to ſee poor <hi>Sawny</hi> look ſo forlorn;</l>
+               <l>To think what glee I'ſe once from him had,</l>
+               <l>and that Iſe ſhou'd now his kindneſs ſcorn:</l>
+               <l>Guid faith he look both pale and wan,</l>
+               <l>repenting that he had been ſo unkind:</l>
+               <l>And beg'd of me for a Sark and band,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>He told me he wou'd be now my Slave</l>
+               <l>and never more ſee <hi>London</hi> Town</l>
+               <l>But ganging with me ſhou'd think it brave,</l>
+               <l>take more delight in my Ruſſet Gown</l>
+               <l>Then in that filthy Copper Lace,</l>
+               <l>that covers Harl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts void of Grace,</l>
+               <l>Pox'd and Patch'd with an Impudent face;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Guid faith I'ſe keep cloſe my two-leav'd Book,</l>
+               <l>I'ſe will not truſt him to gang between;</l>
+               <l>Leſs my Fiſh-pond is ſpoild with his Hook,</l>
+               <l>becauſe he hath ligg'd with a <hi>London</hi> Quean:</l>
+               <l>She having gull'd him of all his ſtore,</l>
+               <l>Bid him to gang and ſeek for more,</l>
+               <l>And now he's return'd both maim'd and poor;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Tho' he ſhew'd me the gay green tree,</l>
+               <l>on which he oft had carv'd my name</l>
+               <l>Whilſt Primroſes I'ſe pluck'd hard by,</l>
+               <l>and made him Noſegays of the ſame:</l>
+               <l>Guid faith I'ſe ſmile to ſee him weep,</l>
+               <l>Becauſe his promiſe he did not keen,</l>
+               <l>But with a Miſs o'th Town did ſleep;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Yet <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I'ſe bid him gang from whence he came.</l>
+               <l>and to the <hi>London</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort declare,</l>
+               <l>He had wrong'd me, and cou'd not, for ſ<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </l>
+               <l>to me for Houſe or Land repair<g ref="char:punc">▪</g>
+               </l>
+               <l>He told me that ſhe was muckle Fag,</l>
+               <l>For when he had emptied his bag,</l>
+               <l>She ſent him home with a running Nagg,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Yet <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And that he did intreat her ſtill,</l>
+               <l>but ſhe was cruel and would not hear</l>
+               <l>Swearing ſhe would poor <hi>Sawny</hi> kill,</l>
+               <l>if that he ſtayed any longer there:</l>
+               <l>Thus any e'ne may plainly ſee,</l>
+               <l>What he got by leaving of me,</l>
+               <l>And what t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Queans of <hi>London</hi> be,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Yet <hi>Sawny</hi>
+                     </hi> ſhall never more be mine.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus may the Laſſes ſee how I paid</l>
+               <l>him for his baſe inconſtancy</l>
+               <l>Who for to ride on a <hi>London</hi> jade,</l>
+               <l>cockt up his Bonnet and gang'd from me</l>
+               <l>For which I ſhall requite him now,</l>
+               <l>And no more of his kindneſs allow,</l>
+               <l>But let him gang home to his Fathers Plow</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For <hi>Sawny</hi> ſhall never more be mine.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>Golden Ball,</hi> near the <hi>Hoſpital-Gate</hi> in <hi>Weſt Smithſfied</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
